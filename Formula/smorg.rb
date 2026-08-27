@@ -3,7 +3,7 @@ class Smorg < Formula
 
   desc "Keyboard-driven terminal dashboard, one tab per connected integration"
   homepage "https://github.com/ldelvoye/smorg"
-  url "https://files.pythonhosted.org/packages/source/s/smorg/smorg-1.4.2.tar.gz"
+  url "https://files.pythonhosted.org/packages/47/9f/3c59f47400d218aa9b43668d11c855a150b97ae389574804bfccdd86cb70/smorg-1.4.2.tar.gz"
   sha256 "5cf32820c4bbbd87134d181a5f941c2957c8a645372c7462ce4dc889e3e3313e"
   license "MIT"
 

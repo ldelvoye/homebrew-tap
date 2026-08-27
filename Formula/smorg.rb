@@ -3,15 +3,15 @@ class Smorg < Formula
 
   desc "Keyboard-driven terminal dashboard, one tab per connected integration"
   homepage "https://github.com/ldelvoye/smorg"
-  url "https://files.pythonhosted.org/packages/source/s/smorg/smorg-1.4.1.tar.gz"
-  sha256 "1ef545b4850c73f2260a6492d808fec7496cde2d43a8c4c43e9ebd1d510bbe30"
+  url "https://files.pythonhosted.org/packages/source/s/smorg/smorg-1.4.2.tar.gz"
+  sha256 "5cf32820c4bbbd87134d181a5f941c2957c8a645372c7462ce4dc889e3e3313e"
   license "MIT"
 
   depends_on "python@3.13"
 
   resource "requirements" do
-    url "https://github.com/ldelvoye/smorg/releases/download/v1.4.1/requirements.txt"
-    sha256 "773e7a0ed255c173e7866d5e8b3c482fba2e7725f5ca47a1d6bf63cbd5145c1d"
+    url "https://github.com/ldelvoye/smorg/releases/download/v1.4.2/requirements.txt"
+    sha256 "73de64c48b60f8ea1a56ce12574f550b90dc54526488033648a30fc87d70ed22"
   end
 
   def install
